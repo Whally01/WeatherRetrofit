@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsyncLearning</string>
+    <string name="get_weather">Search</string>
+</resources>
